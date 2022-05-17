@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Python-blue)
 ![](https://img.shields.io/badge/-Linux-lightgrey)
 ![](https://img.shields.io/badge/-HTML-yellowgreen)
+![](https://img.shields.io/badge/-JavaScript-red)

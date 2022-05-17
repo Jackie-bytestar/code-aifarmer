@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Windows-%23687783)
 ![](https://img.shields.io/badge/-Linux-lightgrey)
 ![](https://img.shields.io/badge/-HTML-yellowgreen)
+![](https://img.shields.io/badge/-Unity-%23123583)
 ![](https://img.shields.io/badge/-JavaScript-red)
 ![](https://img.shields.io/badge/-SQLite-%23852213)
 ![](https://img.shields.io/badge/-SQL%20Server-%23682983)

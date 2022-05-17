@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=code-aifarmer&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=code-aifarmer&show_icons=true&theme=light&count_private=true)
 
 
 ![](https://img.shields.io/badge/-Qt-brightgreen)

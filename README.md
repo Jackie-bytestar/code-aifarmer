@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=code-aifarmer&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> 
 
-
+![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
 
 
 ![](https://camo.githubusercontent.com/fd1d400b54b58e73fa6c06d94863b7d86515576e24545917692626df8d4a753b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d51742d3431434435323f7374796c653d666c61742d737175617265266c6f676f3d5174266c6f676f436f6c6f723d7768697465)

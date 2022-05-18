@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />   -->
-<div align=center><img src=""https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"" width="600"/></div>
+<div align=center><img src=""https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"/></div>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-aifarmer&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=EDE5DC&theme=graywhite" /> </div>
 

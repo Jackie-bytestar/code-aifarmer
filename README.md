@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-aifarmer&theme=light&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-aifarmer&theme=light&layout=compact) 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=code-aifarmer&show_icons=true&theme=light&count_private=true)
 
 
